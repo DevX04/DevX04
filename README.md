@@ -11,6 +11,16 @@
 
 ---
 
+<!-- Custom Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-🔒-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web Dev-🌐-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/App Dev-📱-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Game Dev-🎮-purple?style=for-the-badge" />
+</p>
+
+---
+
 <!-- Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DevX04&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
@@ -30,12 +40,9 @@
 ---
 
 ## 🛠️ Skills & Tools  
-**Languages:** C, C++, Python, JavaScript  
-**Web:** HTML, CSS, React.js  
-**App Dev:** React Native *(learning)*  
-**Game Dev:** Unreal Engine, Unity *(basics)*  
-**Cybersecurity:** Networking, Ethical Hacking *(learning)*  
-**Tools:** Git, GitHub, VS Code  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,react,git,github,vscode,unity,unreal" />
+</p>
 
 ---
 
@@ -71,7 +78,7 @@
   <a href="https://www.linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:divyanshtiwari.dev@gmail.com">
+  <a href="mailto:divyanshtiwari.dev@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
